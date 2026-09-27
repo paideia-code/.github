@@ -44,11 +44,12 @@ Repositorios base listos para iniciar nuevos proyectos de forma rápida, manteni
 Proyectos pequeños creados para **validar decisiones técnicas** antes de integrarlas en soluciones reales.  
 Aquí exploramos tecnologías, patrones y escenarios específicos.
 
-**Nomenclatura:** `paideia-poc-<tecnología>-<prueba>`
+**Nomenclatura:** `paideia-poc-<prueba>-<tecnología>`
 
 **POCs planificados**
-- `paideia-poc-nestjs-websocket` *(Por construir)*
-- `paideia-poc-spring-consumer` *(Por construir)*
+- `paideia-poc-microservices-spring` *(En desarrollo)*
+- `paideia-poc-websocket-nestjs` *(Por construir)*
+- `paideia-poc-consumer-spring` *(Por construir)*
 - *(Nuevos POCs se añadirán regularmente)*
 
 ---
