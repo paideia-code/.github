@@ -6,6 +6,8 @@ Paideia Code es una organización de ingeniería de software enfocada en el **de
 
 Este espacio funciona como una **base de conocimiento viva**, donde el código y los fundamentos se organizan para ser **reutilizados, extendidos y evolucionados**.
 
+🌐 **[Visita el sitio](https://paideia-code.github.io/)**
+
 ---
 
 ## 🕯️ Declaración de principios
@@ -17,73 +19,42 @@ En Paideia Code tomamos esta idea como inspiración para abordar la ingeniería 
 ---
 
 ## 🧱 Los cinco pilares del ecosistema
+
 La organización se articula en cinco pilares interconectados, cada uno con un rol claro dentro del ciclo de diseño y construcción de software.
-- **Templates** → plantilla estandarizada
-- **Libraries** → funcionalidades reutilizables
-- **POCs** → validación técnica temprana
-- **Theory** → fundamento conceptual
-- **Projects** → aplicaciones reales
 
----
+### 📘 1. Theory
 
-## 📂 1. Templates
-Repositorios base listos para iniciar nuevos proyectos de forma rápida, manteniendo buenas prácticas de arquitectura, estructura y estándares de calidad.
+Conocimiento teórico (aunque práctico también): fundamentos, diseño, arquitectura, nube, resúmenes de libros, etc. 
 
-**Nomenclatura:** `paideia-template-<tecnología>-<tipo>`
+Funciona como cuaderno técnico compartido, pensado para consulta, reflexión y evolución constante.
 
-**Templates planificados**
-- `paideia-template-nestjs-api-rest` *(Por construir)*
-- `paideia-template-spring-api-rest` *(Por construir)*
-- `paideia-template-python-rpa` *(Por construir)*
-- `paideia-template-angular-front` *(Por construir)*
-- *(Más templates en camino)*
+[Explorar Theory →](https://paideia-code.github.io/theory/)
 
----
+### 🧪 2. POCs
 
-## 🧪 2. POCs
-Proyectos pequeños creados para **validar decisiones técnicas** antes de integrarlas en soluciones reales.  
-Aquí exploramos tecnologías, patrones y escenarios específicos.
+Proyectos de prueba de conceptos creados para validar decisiones técnicas antes de integrarlas en soluciones reales. 
 
-**Nomenclatura:** `paideia-poc-<prueba>-<tecnología>`
+Aquí exploramos cualquier idea y escenarios específicos (tecnología, arquitectura, patrón, etc).
 
-**POCs planificados**
-- `paideia-poc-microservices-spring` *(En desarrollo)*
-- `paideia-poc-websocket-nestjs` *(Por construir)*
-- `paideia-poc-consumer-spring` *(Por construir)*
-- *(Nuevos POCs se añadirán regularmente)*
+[Explorar POCs →](https://paideia-code.github.io/pocs/)
 
----
+### 📂 3. Templates
 
-## 📦 3. Libraries
+Plantillas listas para iniciar nuevos proyectos de forma rápida, manteniendo buenas prácticas de arquitectura, estructura y estándares de calidad.
+
+[Explorar Templates →](https://paideia-code.github.io/templates/)
+
+### 📦 4. Libraries
+
 Librerías que concentran lógica transversal y patrones recurrentes, permitiendo reutilizar soluciones probadas y reducir duplicación, complejidad y acoplamiento en los proyectos.
 
-**Nomenclatura:** `paideia-library-<tecnología>-<funcionalidad>`
+[Explorar Libraries →](https://paideia-code.github.io/libraries/)
 
-**Librerías planificadas**
-- `paideia-library-spring-common-api` *(Por construir)*
-- `paideia-library-nestjs-security` *(Por construir)*
-- `paideia-library-nestjs-converter` *(Por construir)*
-- *(Más librerías próximamente)*
+### 🚀 5. Projects
 
----
-
-## 📘 4. Theory
-Repositorio de conocimiento teórico: diseño, arquitectura, estructuras de datos, algoritmos, etc.  
-Funciona como **cuaderno técnico compartido**, pensado para consulta, reflexión y evolución constante.
-
-**Nomenclatura:** `paideia-theory-<concepto>`
-
-**Contenidos planificados**
-- `paideia-theory-designs-patterns` *(Por construir)*
-- `paideia-theory-designs-principles` *(Por construir)*
-- `paideia-theory-data-structures` *(Por construir)*
-- *(Espacio en expansión frecuente)*
-
----
-
-## 🚀 5. Projects
 Proyectos completos que materializan el conocimiento desarrollado en los pilares anteriores, integrando fundamentos, decisiones técnicas validadas y buenas prácticas en soluciones reales, coherentes y mantenibles.
-- *(Proyectos reales serán añadidos próximamente)*
+
+[Explorar Projects →](https://paideia-code.github.io/projects/)
 
 ---
 
